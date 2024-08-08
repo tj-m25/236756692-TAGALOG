@@ -120,3 +120,24 @@
   120  rm -r 236756692-TAGALOG
   121  ls
   122  history > exam_log.txt
+  123  ls
+  124  cat exam_log.txt
+  125  ls
+  126  git add exam_log.txt
+  127  ls
+  128  git commit -m "Added exam_log.txt with command history"
+  129  git push origin finalexam
+  130  ls
+  131  git push origin finalexam
+  132  cd ..
+  133  gh auth login
+  134  git auth login
+  135  git --help
+  136  git help clone
+  137  cd ..
+  138  git auth login
+  139  cd 236756692-TAGALOG
+  140  git clone https://github.com/tj-m25/236756692-TAGALOG
+  141  cd linux_practice
+  142  git checkout -b finalexam
+  143  history > exam_log.txt
