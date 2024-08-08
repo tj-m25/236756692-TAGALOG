@@ -141,3 +141,25 @@
   141  cd linux_practice
   142  git checkout -b finalexam
   143  history > exam_log.txt
+  144  git add exam_log.txt
+  145  ls
+  146  git commit -m "Added exam_log.txt with command history"
+  147  git push origin finalexam
+  148  ls
+  149  cd ../..
+  150  gh auth login
+  151  gh repo clone https://github.com/tj-m25/236756692-TAGALOG
+  152  sudo apt install gh
+  153  apt install gh
+  154  apt-get update
+  155  gh repo clone https://github.com/tj-m25/236756692-TAGALOG
+  156  apt install gh
+  157  apt-get update
+  158  gh auth login
+  159  gh repo clone https://github.com/tj-m25/236756692-TAGALOG
+  160  cd linux_practice
+  161  cd 236756692-TAGALOG
+  162  cd linux_practice
+  163  ls
+  164  git checkout -b finalexam
+  165  history > exam_log.txt
