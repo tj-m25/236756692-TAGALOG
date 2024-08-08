@@ -1,0 +1,122 @@
+    1  rm -r ~/yourrepo
+    2  ls
+    3  help
+    4  mkdir linux_practice
+    5  ls
+    6  cd linux_practice
+    7  touch notes.txt
+    8  ls
+    9  append
+   10  ls
+   11  cat > notes.txt
+   12  ls
+   13  cat notes.txt
+   14  cat > notes.txt
+   15  cat notes.txt
+   16  head notes.txt
+   17  tail notes.txt
+   18  ls
+   19  cat notes.txt
+   20  cat > notes.txt
+   21  mkdir subdir
+   22  ls
+   23  mv notes.txt ../subdir
+   24  ls
+   25  mv subdir practice_subdir
+   26  ls
+   27  cp notes.txt copy_of_notes.txt
+   28  cd practice_subdir
+   29  ls
+   30  cd ..
+   31  ls
+   32  practice_subdir
+   33  cd practice_subdir
+   34  ls
+   35  cd ..
+   36  ls
+   37  touch > notes.txt
+   38  touch --help
+   39  touch notes.txt
+   40  ls
+   41  touch < notes1.txt
+   42  cat notes.txt
+   43  ls
+   44  cat > notes.txt
+   45  head notes.txt
+   46  tail notes.txt
+   47  ls
+   48  mv notes.txt practice_subdir
+   49  cd practice_subdir
+   50  ls
+   51  cp notes.txt linux_practice
+   52  cd ..
+   53  ls
+   54  cd practice_subdir
+   55  ls
+   56  cd ..
+   57  ls
+   58  clear
+   59  ls
+   60  cd practice_subdir
+   61  ls
+   62  cp notes.txt $linux_practice/
+   63  cd ..
+   64  ls
+   65  cd practice_subdir
+   66  ls
+   67  cp notes.txt ..
+   68  ls
+   69  cd ..
+   70  ls
+   71  cd practice_subdir
+   72  ls
+   73  rm linux_practice
+   74  ls
+   75  date
+   76  uptime
+   77  du -sh
+   78  cd ~
+   79  s
+   80  du -sh .
+   81  ssh -v
+   82  php -v
+   83  mysql -v
+   84  mysql -V
+   85  apache2 -v
+   86  python -v
+   87  cd 236756692-TAGALOG
+   88  cd linux_practice
+   89  cd practice_subdir
+   90  ls
+   91  java -version
+   92  cd ..
+   93  git clone https://github.com/tj-m25/236756692-TAGALOG
+   94  cd practice_subdir
+   95  git clone https://github.com/tj-m25/236756692-TAGALOG
+   96  ls
+   97  cd ~
+   98  ls
+   99  cd 236756692-TAGALOG
+  100  ls
+  101  cd linux_practice
+  102  ls
+  103  cd practice_subdir
+  104  ls
+  105  cd ../..
+  106  git checkout -b finalexam
+  107  history
+  108  cd linux_practice
+  109  cd practice_subdir
+  110  history
+  111  cd ../..
+  112  cd ..
+  113  git clone https://github.com/tj-m25/236756692-TAGALOG
+  114  cd linux_practice
+  115  cd 236756692-TAGALOG
+  116  git clone https://github.com/tj-m25/236756692-TAGALOG
+  117  cd linux_practice
+  118  git checkout -b finalexam
+  119  ls
+  120  rm -r 236756692-TAGALOG
+  121  ls
+  122  history > exam_log.txt
